@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Honor's Blog"
+title: Honor's Blog
 ---
 
 #Welcome to Honor's Blog
 
-#Feb. 5, 2020
-This is the text of the post.
+##Feb. 5, 2020
+This is the test.
 
