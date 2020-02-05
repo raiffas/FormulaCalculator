@@ -7,3 +7,5 @@ title: Honor's Blog
 ##Feb. 5, 2020
 This is the test.
 
+*This text will be italic*
+_This will also be italic_
