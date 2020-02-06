@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Honor's Blog"
 date: 2020-02-04
 ---
