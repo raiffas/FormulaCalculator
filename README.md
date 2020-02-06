@@ -1,4 +1,4 @@
 ## Formula Calculator
 CS 499 Project for Delta V Innovations
 
-[Honor's Blog](https://suzannehare.github.io/testrepo.github.io/HonorBlog/)
+[Honor's Blog](https://raiffas.github.io/FormulaCalculator/HonorBlog)
