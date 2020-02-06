@@ -1,3 +1,10 @@
+title: Formula Calculator
+
+posts_dir: _posts
+collections:
+  posts:
+    output: true
+
 theme: jekyll-theme-minimal
 
 markdown: kramdown
