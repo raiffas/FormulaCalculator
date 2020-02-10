@@ -4,5 +4,6 @@ permalink: /KyraBlog/
 title: "Kyra's Blog"
 ---
 
-## Welcome to Kyra's Blog!
-Developer Notes for CS 499
+## Developer Notebook: Inside Kyra's Mind
+Developer Notes for CS 499 Group A
+
