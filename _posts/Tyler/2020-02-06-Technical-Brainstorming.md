@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Technical Brainstorming"
+authornamehere: Tyler
+---
+
 Today was the meeting with Mike Flamm, the owner and buisness contact for DeltaV. After talking with him about the new software system, I along with the rest of my team got a clear idea about the function of the software system and its requriement. There appeared to be two main components to it:
 
 1. Extracting Tables from a PDF file
@@ -16,5 +22,5 @@ In thinking about this problem, two methods of discovering all the possible vari
 1. Analyze the formulas once and build a "road map" from formula to formula, then solve each formula in order
 For simplicity, I'm thinking that the former method would be the direction we would head in, if for no other reason than it seems to be the easier to implement and/or is the first algorithm to come to mind. 
 
-As to how to implement these formulas, perhaps a software module for symbolic mathematics would work, since we would need to be able to rearrange formulas. Soemthing like [SymPy](https://www.sympy.org/en/index.html) 
+As to how to implement these formulas, perhaps a software module for symbolic mathematics would work, since we would need to be able to rearrange formulas. Something like [SymPy](https://www.sympy.org/en/index.html) 
 would seem to work.
