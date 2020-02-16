@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Technical Brainstorming"
-authornamehere: Tyler
+Tyler: Tyler
 ---
 
 Today was the meeting with Mike Flamm, the owner and buisness contact for DeltaV. After talking with him about the new software system, I along with the rest of my team got a clear idea about the function of the software system and its requriement. There appeared to be two main components to it:
