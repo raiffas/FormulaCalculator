@@ -2,6 +2,7 @@
 layout: post
 title: "Team Meeting 02/16/2020"
 Meeting: Honor
+author: Honor
 ---
 
 We decided to keep a meeting summary blog in addition to our own individual blogs. 
