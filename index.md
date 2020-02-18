@@ -3,4 +3,4 @@ layout: home
 ---
 
 ## Formula Calculator
-Welcome
+CS 499 Project for Delta V Innovations
