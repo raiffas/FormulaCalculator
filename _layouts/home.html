@@ -9,16 +9,13 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
     {% if post.Meeting != null %}
-        <li>
+      <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
         <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
 
       </li>
-    {% endif %}
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
 </div>
