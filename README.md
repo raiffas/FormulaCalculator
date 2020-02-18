@@ -1,14 +1,19 @@
+
+
 ## Formula Calculator
 CS 499 Project for Delta V Innovations
 
-[Cameron's Blog](https://raiffas.github.io/FormulaCalculator/CameronBlog)
+  <ul class="post-list">
+    {% for post in site.posts %}
+    {% if post.Honor != null %}
+        <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-[Honor's Blog](https://raiffas.github.io/FormulaCalculator/HonorBlog)
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
 
-[Kelsey's Blog](https://raiffas.github.io/FormulaCalculator/KelseyBlog)
+      </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
 
-[Kyra's Blog](https://raiffas.github.io/FormulaCalculator/KyraBlog)
-
-[Raiffa's Blog](https://raiffas.github.io/FormulaCalculator/RaiffaBlog)
-
-[Tyler's Blog](https://raiffas.github.io/FormulaCalculator/TylerBlog)
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
