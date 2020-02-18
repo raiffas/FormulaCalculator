@@ -1,5 +1,5 @@
 ---
-layout: blog_MeetingSummaries 
+layout: default
 ---
 
 ## Formula Calculator
