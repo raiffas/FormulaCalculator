@@ -1,6 +1,7 @@
 ---
 layout: post
 Honor: Honor
+author: Honor
 ---
 
 The team met on Sunday, Feb. 16, to write requirements for the Requirement Specifications document and divvy up parts to each team member. 
