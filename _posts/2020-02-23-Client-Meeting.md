@@ -4,7 +4,7 @@ Meeting: Honor
 author: Honor
 ---
 
-We set up this meeting for Mike to walk us through the though process a user might take if they didn't have access to our application. Only Kyra and Honor attended the meeting over Zoom. The others were unavailable due to things like illness and family obligations. Honor recorded the meeting and uploaded it to the Team Drive.
+We set up this meeting for Mike to walk us through the thought process a user might take if they didn't have access to our application. Only Kyra and Honor attended the meeting over Zoom. The others were unavailable due to things like illness and family obligations. Honor recorded the meeting and uploaded it to the Team Drive.
 
 Mike walked us through a Crash Data Retrieval (CDR) report, a PDF of vehicle and accelerometer data. The format of each CDR report is specific to each vehicle's make and year. He went through almost every piece of data and explained for what he used it. Mike informed us that he needed to get some paperwork finished before he could release some example CDR reports to the team. 
 
@@ -12,5 +12,5 @@ One thing that became abundantly clear during this meeting was that graphical re
 <ol>
   <li>Align data to a 0 time.</li>
   <li>Calculate total Delta V using whatever equations necessary.</li>
-  <li>Calculate data conversions between g-forces and mph. If both are provided in CDR report do conversions anyway to test provided data accuracy.</li>
+  <li>Calculate data conversions between g-forces and mph. If both are provided in CDR report do conversions anyway to test accuracy of the provided data.</li>
 </ol>
