@@ -2,6 +2,7 @@
 layout: post
 title: "Creation of Each Team Member's Blog"
 Honor: Honor
+author: Honor
 ---
 
 I used GitHub Pages and Jekyll to create a blog page for each member of the team. Each page is accessible by way of a link on the project homepage.
