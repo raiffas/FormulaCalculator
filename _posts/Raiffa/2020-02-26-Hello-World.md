@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello World!
-authornamehere: Raiffa
+Raiffa: Raiffa
 ---
 
 Welcome to Raiffa's developer blog!
