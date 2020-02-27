@@ -4,4 +4,5 @@ permalink: /RaiffaBlog/
 title: "Raiffa's Blog"
 ---
 
-Welcome to Raiffa's Blog!
+Raiffa's Developer Blog
+Running Word Count: 113
