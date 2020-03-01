@@ -8,6 +8,6 @@ Today, we discussed the formulation of the project plan. This needs to be done b
 
 We discussed today about how the system overall would look. We've come up with a rough model for how the system. Generally speaking, the system has three components: User input, PDF extraction, and formula solving. The below image captures the rough flow of it.
 
-![System Model Drawing](https://github.com/raiffas/FormulaCalculator/tree/gh-pages/_posts/Tyler/images/System_Model_V1.jpg)
+![System Model Drawing](images/System_Model_V1.jpg)
 
 Word count total: 433
