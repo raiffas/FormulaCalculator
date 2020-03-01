@@ -25,4 +25,6 @@ For simplicity, I'm thinking that the former method would be the direction we wo
 As to how to implement these formulas, perhaps a software module for symbolic mathematics would work, since we would need to be able to rearrange formulas. Something like [SymPy](https://www.sympy.org/en/index.html)
 would seem to work.
 
-### Edit-2020-02-18 Corrected Spelling
+Edit-2020-02-18: Corrected Spelling
+
+Word count total: 326
