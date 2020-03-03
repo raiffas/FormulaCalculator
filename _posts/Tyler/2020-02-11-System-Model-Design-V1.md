@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "System Model V1"
-authornamehere: Tyler
+Tyler: Tyler
 ---
 
 Today, we discussed the formulation of the project plan. This needs to be done by the 18th, so we've decided to split up the work into parts. Some sections of it, such as the requirements, need to be created as a group. We therefore decided to pick parts which could be done individually. I decided to deal with business requirements and the metrics.
