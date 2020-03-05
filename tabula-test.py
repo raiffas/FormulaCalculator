@@ -11,4 +11,5 @@ import tabula
 input_path = "./Longitudinal_test.pdf"
 list_df = tabula.io.read_pdf(input_path, output_format="dataframe")
 df = list_df[0]
+# df.filter(items=['Header1', 'Header2'])
 print(df.filter(items=['Header 1', 'Header 2']))
