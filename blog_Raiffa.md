@@ -6,4 +6,4 @@ title: "Raiffa's Blog"
 
 ## Raiffa's Developer Notes
 
-Running Word Count: 133
+Running Word Count: 642
