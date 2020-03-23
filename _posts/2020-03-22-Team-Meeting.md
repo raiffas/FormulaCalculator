@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Team Meeting 03/22/2020"
-meeting: Raiffa
+Meeting: Raiffa
 authornamehere: Raiffa
 ---
 ###Summary
