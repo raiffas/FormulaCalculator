@@ -1,7 +1,7 @@
 ---
 layout: post
 title: End of First Sprint
-Raiffa: Raiffa
+author: Raiffa
 ---
 
 In the past couple of weeks we have finished our architecture assignment, held our first sprint planning meeting, and had the majority of our first sprint! Our first sprint has gone on a little longer than scheduled, but the last half of it did overlap spring break so that was expected.
