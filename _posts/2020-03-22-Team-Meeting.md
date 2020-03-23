@@ -4,7 +4,7 @@ title: "Team Meeting 03/22/2020"
 Meeting: Raiffa
 authornamehere: Raiffa
 ---
-### Summary
+## Summary
 This was our team's first meeting after Spring Break and since starting our first sprint! We did a quick stand up as it had been a while since the team had communicated, discussed some design issues we ran into, and set dates for our next sprint planning meeting and a weekly standup. 
 
 ## Stand Up
