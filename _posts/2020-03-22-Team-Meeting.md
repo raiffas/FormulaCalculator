@@ -3,7 +3,11 @@ layout: post
 title: "Team Meeting 03/22/2020"
 authornamehere: Raiffa
 ---
+###Summary
+This was our team's first meeting after Spring Break and since starting our first sprint! We did a quick stand up as it had been a while since the team had communicated, discussed some design issues we ran into, and set dates for our next sprint planning meeting and a weekly standup. 
 
-The purpose of authornamehere in the front matter (the --- variables --- part) is so Jenkins can differentiate between different people's posts and only print the appropriate posts on each blog. For example if Honor wants to make a post, she should make a copy of this template in \_posts/Honor and change the variable 'authornamehere' to 'Honor'. It is irrelevant what the value of the variable is; as long as the variable has a defined value, the post will appear on Honor's blog page.
+##Stand Up
+As half of this sprint was during spring break, a lot of us were behind on this sprint. We expected this and we're adding a couple extra days to our sprint to allow everyone enough time to finish up their user stories. In addition, the majority of us ran into issues with the overall design of the application and how their specific piece plugged in. In order to solve this problem, Tyler and I are working on refactoring our detailed class design and diagram to integrate a data object that standardizes information passed through the different pieces of the app. In addition we will be intoducing a main.py that seves as the main controller for the application. 
 
-All post content should be below the front matter. Note that currently, all blog layouts except Honor's display a post excerpt with each post listed on the blog's table of contents. If the first thing in a post is a heading or other special formatting, the excerpt may cause the table of contents to look not too pretty. This can be changed my removing the '{{ post.excerpt }}' line from the corresponding layout file or by simply adding a line of regular text before your heading.
+##Planning for the future
+Since we will not be seeing each other as regularly as before, we are planning on holding a weekly team stand up to quickly discuss our progress and any issues we are facing. We are currently planning on holding these after our stand up with Dr. Hayes.
