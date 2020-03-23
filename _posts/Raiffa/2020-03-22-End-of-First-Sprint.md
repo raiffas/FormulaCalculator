@@ -1,6 +1,7 @@
 ---
 layout: post
 title: End of First Sprint
+author: Raiffa
 Raiffa: Raiffa
 ---
 
