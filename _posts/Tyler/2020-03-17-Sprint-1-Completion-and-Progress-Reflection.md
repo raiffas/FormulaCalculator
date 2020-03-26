@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Sprint 1 Completion and Progress Reflection"
+Tyler: Tyler
+---
+
+As of today, I have finished all the user stories I had. After using the regular expression detailed in my prior post and the built-in parser with SymPy, the code boiled down to a simple `for` loop. I also added a little extra feature to allow for comments by starting a line with #. Since all the parsing is line based, that was simple to add. Plus, it is a nice extra that'll help when the list of equations becomes large. The ignition cycles was also as easy as I expected. I made the parameter for the maximum difference in cycles a parameter of the method itself with a default value of five, in case this number needs to be flexible for whatever reason.
+
+Testing wise, I've been able to use the Python built-in `unittest` module to automate the testing code. Writing the test case code was not really complicated, but figuring out how to run all the cases I wrote was trickier. Part of this was the fact that I organized the code into separate directories, which also impacted importing the code being tested. After doing some digging through the Python documentation, I figured out that each level of the directory I stored the tests in needs an `__init__.py` file before I can use the built-in discovery feature `unittest` has. They're blank documents since we don't need them to do anything before importing one of the tests, which is annoying, but necessary for Python and `unittest` to recognize the directory as a package that can be imported. After doing some experimenting, I've figured out how to automate the testing using a directory structure that looks like a good way to organize. If I add the `__init__.py` to every level like I said before, I can just run `python -m unittest discover tests "*_test.py"` to perform all the tests in one go.
+
+Since I had time, I also went and encoded the equations Mike gave us into the text format described earlier. I've been able to write down all of the equations, but I have some questions for Mike on the next meeting after Spring Break. They primarily revolve around some wording in the documents that I'm confused about. Getting them answered will also affect how well I'm able to simplify the equations down into the text format. There are equations which appear twice in the document, since there is some constant involved that changes depending on which unit is involved. There are also some equations that I'm concerned about frame of reference issues coming into play.
+
+Overall, I think the first sprint went well, given the time constraint. I'm not sure how well my other team mates have done, but I hope that I'll figure that out next time we meet. Having more regular meetings, at least on a sub-team level, might be beneficial for the next sprint.
+
+Word count total: 2121
