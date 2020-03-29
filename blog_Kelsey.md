@@ -1,7 +1,7 @@
 ---
 layout: blog_onlyKelsey
 permalink: /KelseyBlog/
-title: "Keley's Blog"
+title: "Kelsey's Blog"
 ---
 
 # Welcome to Kelsey's Blog!
