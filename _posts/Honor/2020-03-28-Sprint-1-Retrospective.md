@@ -2,6 +2,7 @@
 layout: post
 title: Sprint 1 Retrospective
 Honor: Honor
+author: Honor
 ---
 
 Due to the situation with Covid-19 and Spring Break, the team started sprint 2 a few days late. Our retrospective of sprint 1 was very good. I think it brought up a lot of good ideas, but there were two things that stood out.
