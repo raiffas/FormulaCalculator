@@ -7,4 +7,4 @@ title: "Kelsey's Blog"
 # Welcome to Kelsey's Blog!
 ## JustDeveloperThings
 
-Running word count: 417
+Running word count: 692 (including meeting blog posts)
