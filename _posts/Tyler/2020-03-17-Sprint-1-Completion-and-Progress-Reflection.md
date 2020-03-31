@@ -11,5 +11,3 @@ Testing wise, I've been able to use the Python built-in `unittest` module to aut
 Since I had time, I also went and encoded the equations Mike gave us into the text format described earlier. I've been able to write down all of the equations, but I have some questions for Mike on the next meeting after Spring Break. They primarily revolve around some wording in the documents that I'm confused about. Getting them answered will also affect how well I'm able to simplify the equations down into the text format. There are equations which appear twice in the document, since there is some constant involved that changes depending on which unit is involved. There are also some equations that I'm concerned about frame of reference issues coming into play.
 
 Overall, I think the first sprint went well, given the time constraint. I'm not sure how well my other team mates have done, but I hope that I'll figure that out next time we meet. Having more regular meetings, at least on a sub-team level, might be beneficial for the next sprint.
-
-Word count total: 2121
