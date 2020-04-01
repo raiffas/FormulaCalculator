@@ -5,10 +5,11 @@ title: "Kelsey's Blog"
 ---
 
 # Welcome to Kelsey's Blog!
-## JustDeveloperThings
+## A Blog About a Senior Design Project
+### and Yeeting Out of Your Last Semester of Undergrad
 
 Running word count: 692 (including meeting blog posts)
 
-![](./images/kelsey_blog_pic.jpg)
+![](./images/kelsey_blog_pic.jpeg)
 
-<style> img {max-width: 100%; max-height: 200px;}</style>
+<style> img {max-width: 100%; max-height: 200px; left: 50%; }</style>
