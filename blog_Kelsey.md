@@ -9,5 +9,6 @@ title: "Kelsey's Blog"
 
 Running word count: 692 (including meeting blog posts)
 
-<img src="./images/kelsey_blog_pic.jpg"
-     alt="Kelsey Cole picture" width="200px"/>
+![](./images/kelsey_blog_pic.jpg)
+
+<style> img {width: 100%; }</style>
