@@ -7,3 +7,4 @@ title: "Cameron's Blog"
 # Welcome to Cameron's Blog!
 
 ### Formula Calculations with Delta V
+Running word count: # (including meeting blog posts)
