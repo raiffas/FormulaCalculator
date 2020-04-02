@@ -4,7 +4,7 @@ title: "Just Corona Stuff"
 Kelsey: Kelsey
 author: Kelsey
 ---
-![](./images/peakproductivity.jpeg)
+![](./images/kelsey_blog_pic.jpeg)
 
 As I write this, our team has finished up sprint 1 and looks to wrap up sprint 2 on Tuesday; however, I would be remiss if I didn't mention that, throughout this productivity, our worlds have been "turned on their heads." 
 
@@ -20,4 +20,4 @@ I would not get to see all of my college friends for one last time in two weeks.
 I read an article about how important it was to take these measures in order to protect the most vulnerable in our communities, how important it was to take these measures to avoid overwhelming our healthcare infrastructure. I mourned the loss of getting to experience the "lasts" of my senior semester, but was humbled by the fact that the lives of others--even if it was just one--was so much more important than me being able to "experience my lasts."
 
 So I picked myself up out of bed, texted my teammate Cameron, and we finished our user stories for the sprint. Homework and deadlines will still come in a steady stream. I will finish this design project, and I will still "graduate" in May, even if I have to strut around in my cap and gown on Zoom to celebrate.
-<style> img {max-width: 100%; max-height: 300px; left: 50%; }</style>
+<style> img {width: 100%; max-height: 300px;}</style>
