@@ -11,6 +11,6 @@ title: "Kelsey's Blog"
 ![](./images/kelsey_blog_pic.jpeg)
 ![](./images/IMG_2305.jpeg)
 
-Running word count: 1029 words (including meeting blog posts, posted on front page)
+Running word count: 1027 words (including meeting blog posts, posted on front page)
 
 <style> img {max-width: 100%; max-height: 200px; left: 50%; }</style>
