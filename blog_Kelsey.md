@@ -9,7 +9,8 @@ title: "Kelsey's Blog"
 ### and Yeeting Out of Your Last Semester of Undergrad
 
 ![](./images/kelsey_blog_pic.jpeg)
+![](./images/IMG_2305.jpeg)
 
-Running word count: 991 words (including meeting blog posts, posted on front page)
+Running word count: 1029 words (including meeting blog posts, posted on front page)
 
 <style> img {max-width: 100%; max-height: 200px; left: 50%; }</style>
