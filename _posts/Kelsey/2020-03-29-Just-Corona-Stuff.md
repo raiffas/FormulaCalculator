@@ -5,6 +5,8 @@ Kelsey: Kelsey
 author: Kelsey
 ---
 
+![](https://raiffas.github.io/FormulaCalculator/images/peakproductivity.jpeg)
+
 As I write this, our team has finished up sprint 1 and looks to wrap up sprint 2 on Tuesday; however, I would be remiss if I didn't mention that, throughout this productivity, our worlds have been "turned on their heads." 
 
 The Monday before spring break, my boss at work told me that UK was looking to spend the 2 weeks following spring break online due to the COVID-19 pandemic. I told her I didn't see it happening. 
