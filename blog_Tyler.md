@@ -6,4 +6,4 @@ title: "Tyler's Blog"
 
 #Welcome to Tyler's Blog!
 
-Total Word Count: 2372
+Total Word Count: 2876
