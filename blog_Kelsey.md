@@ -1,7 +1,15 @@
 ---
 layout: blog_onlyKelsey
 permalink: /KelseyBlog/
-title: "Keley's Blog"
+title: "Kelsey's Blog"
 ---
 
-Welcome to Kelsey's Blog!
+# Welcome to Kelsey's Blog!
+## A Blog About a Senior Design Project
+### and Yeeting Out of Your Last Semester of Undergrad
+
+![](./images/kelsey_blog_pic.jpeg)
+
+Running word count: 1254 words (including team meeting/client posts, posted on front page)
+
+<style> img {max-width: 100%; max-height: 200px; left: 50%; }</style>

@@ -4,4 +4,6 @@ permalink: /TylerBlog/
 title: "Tyler's Blog"
 ---
 
-Welcome to Tyler's Blog!
+#Welcome to Tyler's Blog!
+
+Total Word Count: 2876

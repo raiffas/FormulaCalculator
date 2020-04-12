@@ -26,5 +26,3 @@ As to how to implement these formulas, perhaps a software module for symbolic ma
 would seem to work.
 
 Edit-2020-02-18: Corrected Spelling
-
-Word count total: 326

@@ -17,5 +17,3 @@ Beyond symbolic evaluation. SymPy offers a method `lambdify`, which can translat
 
 # Conclusion
 Overall, SymPy look like a solid library to leverage in this project. By using this, we should be able to greatly simplify the construction of the formula solving system.
-
-Word count total: 939
