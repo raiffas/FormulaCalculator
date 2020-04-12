@@ -2,6 +2,7 @@
 layout: post
 title: Nearing the End!
 author: Raiffa
+Raiffa: Raiffa
 ---
 
 It's been a while since I've updated my developer blog. Since my last post we started and ended our second sprint and we're currently halfway through our third and final one! A lot of the user stories for this third sprint are continuations of the ones from last sprint as we all realized we didn't have enough time to implement everything we needed to. In addition, I am working with Kyra to link up everyone's pieces and create an app we can demo and package up for the end of the semester.
