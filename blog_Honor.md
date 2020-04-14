@@ -6,4 +6,4 @@ title: "Honor's Blog!"
 
 Welcome to Honor's Blog!
 
-Word Count: 638
+Word Count (summary + personal blog): 1150 
