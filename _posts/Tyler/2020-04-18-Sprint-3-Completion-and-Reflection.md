@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Sprint 3 Completion and Reflection"
+Tyler: Tyler
+---
+
+Overall, I believe I have done well in terms of progress, but that I set myself up with too much to expect to get done by the end of the sprint. I initially set out with the goal of getting the equation solving system completed by the end of the sprint. However, as I explored what needed to go into the code to complete it, I quickly realized that a fully working implementation would not be possible. There seems to be a plethora of edge cases and desired sub-features that would be involved with it that need to be handled by future teams. In hindsight, It would have been better for me to have broken the user story up into more pieces somehow and assigned myself only a few of those pieces. The team and I knew that this would be an epic, but I still believe that in terms of story points that this was an underestimate.
+
+That being said, I've been able to implement a number of useful new features. The actual equation solving code itself (i.e. given an equation and some values to substitute, solve for an unknown) is encapsulated as its own method. Several other methods also exist for things like determining constants in an equation, extracting values and units from a SymPy expression, and validation of a set of proposed substitutions. The only thing that I was unable to implement at all was actually determining substitutions from available variables. This seems to be a much more complicated process than I initially expected and might require some nontrivial reworking of the code in order to implement it fully. I've decided that it would be better for a future team to work on, rather than trying to concoct some code last minute. I'll talk with the team tomorrow about what we need to complete for the coding assignment this Tuesday and how we want to document features that we want future teams to work on.
