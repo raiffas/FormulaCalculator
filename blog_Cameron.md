@@ -5,7 +5,7 @@ title: "Cameron's Blog"
 ---
 
 # Welcome to Cameron's Blog!
-Running word count: 1,060 (including meeting blog posts)
+Running word count: 1,273 (including meeting blog posts)
 
 ### About Me
 I am a senior at the University of Kentucky studying Computer Science and minoring in Mathematics. I plan to graduate in December 2020. My main interests in the Computer Science field is Web Development, and I have 3 years of professional experience in this field so far. I am also looking into branching out into other fields. I have been working at Computer Services Inc. doing Web Development since the summer after my freshman year.
